@@ -1,1 +1,1 @@
-# samoke-flask-auth
+# sample-flask-auth
